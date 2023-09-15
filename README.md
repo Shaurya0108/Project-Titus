@@ -26,3 +26,16 @@ pnpm i @prisma/client
 npx prisma init
 
 
+### Connect Prisma schema to PostgresDb
+
+npx prisma migrate dev --name init
+
+- This uses the DBURL in the .env
+
+
+### Visualize Prisma information
+
+npm i -D ts-node
+
+- Create seed.ts
+- 
