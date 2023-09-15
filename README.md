@@ -1,5 +1,7 @@
 # Project Titus
 
+NextJS + Prisma + Postgres + AWS + ...
+
 ## Introduction
 
 What will this app do?
